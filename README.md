@@ -1,5 +1,5 @@
-I'm proficient in Python, and know a bit of C#, SQL, and HTML/CSS. I own a SaaS company in business process automation, and coding is my passion.
-Best way to reach me is my discord -> staleplains
+I'm proficient in Python, and know a bit of C#, SQL, and HTML/CSS. I created a web app for business automation, and coding is my passion.
+Best way to reach me is my email mjg427@cornell.edu.
 
 <!---
 StalePlains/StalePlains is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
